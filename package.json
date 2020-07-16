@@ -1,0 +1,27 @@
+{
+  "name": "smz-sanitizer",
+  "version": "1.0.0",
+  "description": "Inpur sanitizer for Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacha-smz/smz-sanitizer.git"
+  },
+  "keywords": [
+    "xss",
+    "express",
+    "sanitizer"
+  ],
+  "author": "Sacha-Maximilien Zacaropoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacha-smz/smz-sanitizer/issues"
+  },
+  "homepage": "https://github.com/sacha-smz/smz-sanitizer#readme",
+  "dependencies": {
+    "xss": "^1.0.7"
+  }
+}
